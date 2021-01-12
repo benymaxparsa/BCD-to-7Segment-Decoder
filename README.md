@@ -34,3 +34,9 @@ Project was implemented using Proteus 8.11
 # How to Use ?
 
 load this [Proteus File](https://github.com/benymaxparsa/BCD-to-7Segment-Decoder/blob/main/BCD_to_7Segment_Decoder.pdsprj) in to your Proteus and the rest is self explanatory :)
+
+# Screenshots:
+
+![Full View](https://github.com/benymaxparsa/BCD-to-7Segment-Decoder/blob/main/full_Screenshot.jpg)
+
+![Screenshot 1](https://github.com/benymaxparsa/BCD-to-7Segment-Decoder/blob/main/Screenshot1.jpg)
